@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
-import Counter from "./Counter";
-import Todo from "./Todo";
+import Counter from "./components/Counter";
+import Todo from "./components/Todo";
 import TodoClass from './store/todo'
 
 

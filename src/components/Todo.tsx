@@ -1,6 +1,6 @@
 import React, {FC} from 'react';
 import {observer} from "mobx-react-lite";
-import TodoClass from "./store/todo";
+import TodoClass from "../store/todo";
 
 interface TodoProps {
     store: TodoClass;

@@ -1,5 +1,5 @@
 import React, {FC} from 'react';
-import counter from './store/counter'
+import counter from '../store/counter'
 import {observer} from "mobx-react-lite";
 
 const Counter: FC = observer(() => {
